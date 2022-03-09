@@ -1,0 +1,11 @@
+{
+  "name": "ip.ava.do",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dnsfun": "^0.0.4",
+    "ip-parse": "^1.0.5"
+  }
+}
